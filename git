@@ -3,3 +3,4 @@ git clone --mirror
 git clone --bare
 git clone
 git fetch
+git log --graph
