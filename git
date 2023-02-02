@@ -1,3 +1,5 @@
 git init aboutgit
+git clone --mirror
+git clone --bare
 git clone
 git fetch
